@@ -1,0 +1,1 @@
+# medidor-de-impuls-o
