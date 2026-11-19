@@ -29,12 +29,3 @@ As medições salvas ficam apenas no navegador do aparelho (`localStorage`).
 ## Ranking compartilhado
 
 Esta versão do repositório não inclui o ranking entre pessoas. O ranking depende de banco de dados e login oferecidos pela plataforma onde o app foi publicado originalmente. Fora dela, a seção de ranking fica oculta e o app funciona normalmente, só com o histórico local.
-
-## Publicar no GitHub Pages
-
-1. Crie um repositório no GitHub e envie `index.html` e `README.md`.
-2. Abra **Settings > Pages**.
-3. Em **Build and deployment**, escolha **Deploy from a branch**, selecione a branch `main` e a pasta `/ (root)`.
-4. Salve. Em alguns minutos o app fica disponível no endereço mostrado na própria página de configuração.
-
-O app é um único arquivo HTML. Ele carrega as fontes do Google Fonts e não depende de nenhuma outra biblioteca.
